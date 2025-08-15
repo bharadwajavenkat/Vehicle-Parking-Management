@@ -1,5 +1,4 @@
 # Vehicle-Parking-Management
-hr
 
 A Web Application to manage a multi-user vehicle parking system using Flask, Jinja2, and a SQLite database, built on an MVC architecture.
 
